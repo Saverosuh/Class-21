@@ -1,2 +1,2 @@
-# Class-21
-bounceOff function and library
+# collisionAlgorithm
+Algorithm to detect collision between two objects
